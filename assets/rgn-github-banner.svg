@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b0f14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1350" cy="80" r="180" fill="#7c3aed" opacity=".08"/>
+  <circle cx="180" cy="380" r="220" fill="#00d4ff" opacity=".06"/>
+  <path d="M0 330 C 280 250, 500 430, 800 315 S 1320 230, 1600 300" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".45"/>
+  <path d="M0 350 C 310 285, 520 455, 825 338 S 1310 260, 1600 325" fill="none" stroke="#ffffff" stroke-width="1" opacity=".10"/>
+  <text x="120" y="155" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="3">RAZVAN G. NICULAE</text>
+  <text x="122" y="222" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500" letter-spacing="2">MARKETING × AI × SYSTEMS</text>
+  <rect x="122" y="264" width="510" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="122" y="315" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="24">Strategy → Architecture → Execution → Measurement</text>
+  <text x="1390" y="340" text-anchor="end" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="22">niculae.info</text>
+</svg>
