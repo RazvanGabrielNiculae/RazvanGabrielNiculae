@@ -68,14 +68,30 @@ Connecting growth strategy to the infrastructure required to execute it:
 
 ## 🌟 Selected Work
 
-### 🎨 Picasso — Claude Design ↔ Claude Code Bridge Loop
+A selection of my **public Python projects** around AI Search, SEO/AEO/GEO, technical discovery and evidence-aware web QA.
 
-A local orchestration loop for turning a design brief into implementation through a
-structured **Generate → Implement → Score → Refine** workflow.
+### 🔎 [AI Search Frameworks](https://github.com/RazvanGabrielNiculae/ai-search-frameworks)
+Open frameworks, methodology and reference assets for **SEO, AEO, GEO and AI Search** from niculae.info.
 
-**Focus:** design systems · AI orchestration · Claude Code · automation · iterative quality gates
+### 📊 [AI Search Measurement](https://github.com/RazvanGabrielNiculae/ai-search-measurement)
+Reproducible schemas and CLI validation for **AI Search visibility observations**.
 
-👉 [View repository](https://github.com/RazvanGabrielNiculae/picasso-claude-design-claude-code-bridge-loop)
+### 🤖 [AI Crawler Audit Tools](https://github.com/RazvanGabrielNiculae/ai-crawler-audit-tools)
+Evidence-aware AI crawler registry and `robots.txt` policy auditing with search, live-fetch, training and control-token roles.
+
+### 🔗 [Citation Engineering Toolkit](https://github.com/RazvanGabrielNiculae/citation-engineering-toolkit)
+Practical **claim-evidence and citation-readiness** tools for verifiable web content.
+
+### 🧭 [Technical Indexability Audit Tools](https://github.com/RazvanGabrielNiculae/technical-indexability-audit-tools)
+Audits URL inventories for **HTTP, canonical, robots and redirect hygiene**.
+
+### 🧩 [Structured Data Audit Tools](https://github.com/RazvanGabrielNiculae/structured-data-audit-tools)
+Dependency-free JSON-LD and Article structured-data audits built around explicit, testable schema invariants.
+
+### 🧪 More public tools
+I also publish focused audit utilities for **retrieval evaluation, source provenance, semantic HTML, crawl logs, sitemaps, localization, ecommerce feeds, entity SEO, renderability, content portfolios and more**.
+
+👉 [Browse all public repositories](https://github.com/RazvanGabrielNiculae?tab=repositories&type=public)
 
 ---
 
